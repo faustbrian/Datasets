@@ -379,7 +379,8 @@
     "abbr": "MDT",
     "offset": -1,
     "isdst": true,
-    "text": "(UTC-02:00) Mid-Atlantic - Old"
+    "text": "(UTC-02:00) Mid-Atlantic - Old",
+    "utc": []
 }, {
     "value": "Azores Standard Time",
     "abbr": "ADT",
@@ -613,7 +614,8 @@
     "abbr": "EEDT",
     "offset": 3,
     "isdst": true,
-    "text": "(UTC+02:00) E. Europe"
+    "text": "(UTC+02:00) E. Europe",
+    "utc": []
 }, {
     "value": "South Africa Standard Time",
     "abbr": "SAST",
@@ -1220,7 +1222,8 @@
     "abbr": "KDT",
     "offset": 13,
     "isdst": true,
-    "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old",
+    "utc": []
 }, {
     "value": "Tonga Standard Time",
     "abbr": "TST",
