@@ -9,11 +9,12 @@
         "homepage": "https://brianfaust.de"
     }],
     "require": {
-        "php": "^7.1",
+        "php": "^7.0",
         "mledoze/countries": "^1.7"
     },
     "config": {
-        "preferred-install": "dist"
+        "preferred-install": "dist",
+        "sort-packages": true
     },
     "extra": {
         "branch-alias": {
